@@ -1,0 +1,15 @@
+name: SchemaBuild
+version: '${project.version}'
+main: io.github.mrmarvel.schemabuild.plugin.SchemaBuild
+api-version: 1.17
+prefix: SB
+authors: [MrMarvel]
+commands:
+  status:
+    description: Get infromation about status of plugin
+    usage: /<command>
+    permission: schemabuild.status
+  sb:
+    description: General command SchemaBuild
+    usage: /<command> <subcommand>
+    permission: schemabuild.sb
