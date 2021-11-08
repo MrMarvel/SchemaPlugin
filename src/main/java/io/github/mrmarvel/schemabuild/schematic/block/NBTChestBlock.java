@@ -1,6 +1,6 @@
 package io.github.mrmarvel.schemabuild.schematic.block;
 
-import io.github.mrmarvel.schemabuild.schematic.WrongIdException;
+import io.github.mrmarvel.schemabuild.test19.WrongIdException;
 import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.nbt.NBTTagList;
 import org.bukkit.Material;

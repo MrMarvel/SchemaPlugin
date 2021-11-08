@@ -1,8 +1,7 @@
-package io.github.mrmarvel.schemabuild.schematic;
+package io.github.mrmarvel.schemabuild.test19;
 
 /**
  * Called when an NBT block has the wrong id
- * @author SamB440
  */
 public class WrongIdException extends Exception {
 

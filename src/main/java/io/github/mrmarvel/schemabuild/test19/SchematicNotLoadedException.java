@@ -1,8 +1,7 @@
-package io.github.mrmarvel.schemabuild.schematic;
+package io.github.mrmarvel.schemabuild.test19;
 
 /**
  * Called when a schematic's data has not been loaded.
- * @author SamB440
  */
 public class SchematicNotLoadedException extends Exception {
 

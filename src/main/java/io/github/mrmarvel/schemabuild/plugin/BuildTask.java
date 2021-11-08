@@ -2,13 +2,12 @@ package io.github.mrmarvel.schemabuild.plugin;
 
 import io.github.mrmarvel.schemabuild.schematic.Scheduler;
 import io.github.mrmarvel.schemabuild.schematic.Schematic;
-import io.github.mrmarvel.schemabuild.schematic.SchematicNotLoadedException;
+import io.github.mrmarvel.schemabuild.test19.SchematicNotLoadedException;
 import net.md_5.bungee.api.ChatMessageType;
 import net.md_5.bungee.api.chat.ComponentBuilder;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
-import org.bukkit.craftbukkit.libs.org.apache.maven.model.Build;
 import org.bukkit.entity.Player;
 
 import java.util.*;
