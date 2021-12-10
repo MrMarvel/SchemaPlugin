@@ -1,4 +1,4 @@
-package io.github.mrmarvel.schemabuild.test19;
+package io.github.mrmarvel.schemabuild.tests.test19;
 
 /**
  * Called when a schematic's data has not been loaded.

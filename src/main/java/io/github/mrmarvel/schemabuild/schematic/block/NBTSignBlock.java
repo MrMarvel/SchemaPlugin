@@ -3,7 +3,7 @@ package io.github.mrmarvel.schemabuild.schematic.block;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
-import io.github.mrmarvel.schemabuild.test19.WrongIdException;
+import io.github.mrmarvel.schemabuild.tests.test19.WrongIdException;
 import net.minecraft.nbt.NBTTagCompound;
 import org.bukkit.block.BlockState;
 

@@ -1,6 +1,6 @@
 package io.github.mrmarvel.schemabuild.plugin;
 
-import io.github.mrmarvel.schemabuild.test17.PluginState;
+import io.github.mrmarvel.schemabuild.tests.test17.PluginState;
 import org.bukkit.Bukkit;
 import org.bukkit.event.HandlerList;
 import org.bukkit.plugin.PluginManager;

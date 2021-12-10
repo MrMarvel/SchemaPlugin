@@ -2,7 +2,7 @@ package io.github.mrmarvel.schemabuild.plugin;
 
 import io.github.mrmarvel.schemabuild.schematic.Scheduler;
 import io.github.mrmarvel.schemabuild.schematic.Schematic;
-import io.github.mrmarvel.schemabuild.test19.SchematicNotLoadedException;
+import io.github.mrmarvel.schemabuild.tests.test19.SchematicNotLoadedException;
 import net.md_5.bungee.api.ChatMessageType;
 import net.md_5.bungee.api.chat.ComponentBuilder;
 import org.bukkit.Bukkit;

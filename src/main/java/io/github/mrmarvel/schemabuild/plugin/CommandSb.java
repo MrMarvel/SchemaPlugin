@@ -1,9 +1,9 @@
 package io.github.mrmarvel.schemabuild.plugin;
 
-import io.github.mrmarvel.schemabuild.test18.ExceptionTest;
-import io.github.mrmarvel.schemabuild.test19.ExceptionTest2;
-import io.github.mrmarvel.schemabuild.test19.SchematicNotLoadedException;
-import io.github.mrmarvel.schemabuild.test20.TimeChecker;
+import io.github.mrmarvel.schemabuild.tests.test18.ExceptionTest;
+import io.github.mrmarvel.schemabuild.tests.test19.ExceptionTest2;
+import io.github.mrmarvel.schemabuild.tests.test19.SchematicNotLoadedException;
+import io.github.mrmarvel.schemabuild.tests.test20.TimeChecker;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

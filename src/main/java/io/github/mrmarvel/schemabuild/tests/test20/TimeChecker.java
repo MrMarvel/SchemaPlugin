@@ -1,4 +1,4 @@
-package io.github.mrmarvel.schemabuild.test20;
+package io.github.mrmarvel.schemabuild.tests.test20;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

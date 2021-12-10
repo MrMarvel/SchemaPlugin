@@ -1,4 +1,4 @@
-package io.github.mrmarvel.schemabuild.test18;
+package io.github.mrmarvel.schemabuild.tests.test18;
 
 import java.io.FileInputStream;
 import java.io.IOException;
