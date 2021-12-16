@@ -7,9 +7,8 @@ import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
-import org.bukkit.event.*;
-import org.bukkit.event.block.*;
-import org.bukkit.event.player.*;
+import org.bukkit.event.block.BlockPlaceEvent;
+import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.util.Vector;
 
 import java.util.Random;
@@ -32,7 +31,7 @@ class MyListener implements Listener {
         Material t = Material.BEDROCK;
         if (b.getBlockData().getMaterial().equals(t)) {
             Player p = e.getPlayer();
-            p.sendMessage(String.format("Ты хочешь постsssавить %s?", t));
+            p.sendMessage(String.format("Ты хочешь постsss222авить %s?", t));
             e.setCancelled(true);
             showDestroyedBlockBelowPlayer(p);
             showStructure(p);
